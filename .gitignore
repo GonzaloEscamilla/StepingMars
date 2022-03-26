@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+StepingMars/Library/
+StepingMars/Logs/
+StepingMars/Temp/
+StepingMars/UserSettings/
