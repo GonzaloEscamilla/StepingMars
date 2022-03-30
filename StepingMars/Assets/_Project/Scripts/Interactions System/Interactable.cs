@@ -1,12 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
-using System.Diagnostics;
 using UnityEngine;
 
-namespace StepingMars
+namespace StepingMars._Project.Scripts.Interactions_System
 {
     public abstract class Interactable : MonoBehaviour
     {
         public abstract void Interact(Transform interactor);
     }
 }
+

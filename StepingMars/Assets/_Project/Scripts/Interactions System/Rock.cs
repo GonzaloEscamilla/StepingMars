@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace StepingMars
+namespace StepingMars._Project.Scripts.Interactions_System
 {
     public class Rock : Interactable
     {
