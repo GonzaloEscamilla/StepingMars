@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/_Project/Scenes/Mars Networked.unity
+    guid: 96db33becaa631840ac44fb66d5b026d
+  - enabled: 0
+    path: Assets/_Project/Scenes/Mars.unity
+    guid: fe0d7cd8b09dfa64f8194c6eb35f6ee6
   m_configObjects: {}

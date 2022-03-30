@@ -11,6 +11,8 @@ namespace StepingMars._Project.Scripts.Character
         [SerializeField] private CharacterMovement _characterMovement;
         [SerializeField] private Rigidbody2D _rigidbody2D;
         [SerializeField] private SpriteRenderer _spriteRenderer;
+        [SerializeField] private CharacterInteractionController _interactionController;
+
         
         void Awake()
         {
